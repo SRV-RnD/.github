@@ -4,8 +4,8 @@
 
 ## [ :robot: Micro Controller Unit ]
 
-![NORDIC](https://img.shields.io/badge/nordicsemiconductor-00A9CE?style=for-the-badge&logo=nordicsemiconductor&logoColor=white)<br/>
-![ST](https://img.shields.io/badge/STmicroelectronics-03234B?style=for-the-badge&logo=STmicroelectronics&logoColor=white)
+![NORDIC](https://img.shields.io/badge/nordic%20semiconductor-00A9CE?style=for-the-badge&logo=nordicsemiconductor&logoColor=white)<br/>
+![ST](https://img.shields.io/badge/ST%20microelectronics-03234B?style=for-the-badge&logo=STmicroelectronics&logoColor=white)
 <br/>
 
 
